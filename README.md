@@ -1,4 +1,4 @@
-# Jeffersonian transcript search tool
+# Jefferson transcript search tool
 
 Launch notebook on the free [mybinder](https://mybinder.org): 
 
